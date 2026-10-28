@@ -163,7 +163,7 @@ ip addr
 
 ### 🌐 CyberLab Network
 
-![CyberLab Network]<img width="1745" height="907" alt="image" src="https://github.com/user-attachments/assets/cf7b7401-d1b3-40d8-938e-156e0656d2ac" />
+CyberLab Network<img width="1745" height="907" alt="image" src="https://github.com/user-attachments/assets/cf7b7401-d1b3-40d8-938e-156e0656d2ac" />
 
 
 
@@ -175,10 +175,10 @@ ip addr
 
 ### 🐉 Kali IP Configuration
 
-![Kali IP Configuration]<img width="1736" height="903" alt="image" src="https://github.com/user-attachments/assets/18361e86-a476-418b-a042-635201221921" />
+Kali IP Configuration<img width="1736" height="903" alt="image" src="https://github.com/user-attachments/assets/18361e86-a476-418b-a042-635201221921" />
 
 
-![Checking_Network_Connectivity]<img width="873" height="796" alt="image" src="https://github.com/user-attachments/assets/a63e4a4d-69d6-4c9a-b247-62f3dcc6e364" />
+Checking_Network_Connectivity<img width="873" height="796" alt="image" src="https://github.com/user-attachments/assets/a63e4a4d-69d6-4c9a-b247-62f3dcc6e364" />
 
 
 
@@ -217,10 +217,10 @@ ping google.com
 
 🟢 **Result: Verified**
 
-![Snapshot_img]<img width="1723" height="876" alt="image" src="https://github.com/user-attachments/assets/21091d5e-c1b1-48bd-b5dd-5ba4e6704a8a" />
+Snapshot_img<img width="1723" height="876" alt="image" src="https://github.com/user-attachments/assets/21091d5e-c1b1-48bd-b5dd-5ba4e6704a8a" />
 
 
-![configured_linux]<img width="1733" height="871" alt="image" src="https://github.com/user-attachments/assets/ae1a29cc-f7aa-4c47-adf9-d71670edb19a" />
+configured_linux<img width="1733" height="871" alt="image" src="https://github.com/user-attachments/assets/ae1a29cc-f7aa-4c47-adf9-d71670edb19a" />
 
 
 ---
